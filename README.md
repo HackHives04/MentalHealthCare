@@ -1,2 +1,6 @@
 # MentalHealthCare
-Mental Health Management Website which will help you to relive the stress in your day to day life.
+Team Name: Hack Hives
+Team Number: T07
+Problem Statement: SM24-11 : Predictive Health Analytics
+Build a system that analyzes health data to identify potential health risks and
+trends, enabling early intervention and preventive care.
